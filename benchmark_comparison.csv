@@ -1,0 +1,8 @@
+Metric,Roboflow,Custom Model
+Model,ResNet18,MobileNetV2
+Accuracy (%),Not reported,95.77
+Precision (%),96.1,96.0
+Recall (%),89.8,96.0
+F1 Score (%),92.5,96.0
+Training Time (minutes),Not reported,12.27
+Inference Latency (ms/image),2.3,41.23
